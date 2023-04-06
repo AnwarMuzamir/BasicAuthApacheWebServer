@@ -1,4 +1,0 @@
-AuthName "Password Protected Area"
-AuthType Basic
-AuthUserFile C:\xampp\apache\bin\.htpassword
-require valid-user
